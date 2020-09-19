@@ -53,3 +53,5 @@ geckodriver.log
 .vscode
 
 Convolutional_Neural_Networks/dataset/
+Boltzmann Machine/ml-1m/
+Boltzmann Machine/ml-100k/
